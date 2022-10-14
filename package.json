@@ -1,0 +1,19 @@
+{
+  "name": "myPress",
+  "version": "1.0.0",
+  "description": "mypress",
+  "main": "index.js",
+  "repository": "https://github.com/ariza-space/myPress.git",
+  "author": "yyq <me@bilili.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+
+  
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+  
+}
